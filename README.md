@@ -1,0 +1,2 @@
+# mycroft-yeni
+güncek kod
